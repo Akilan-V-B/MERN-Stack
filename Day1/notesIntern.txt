@@ -1,0 +1,66 @@
+DBMS - It is used to store & organize large amount of data and can do CRUD operations and traversal over the data.
+
+Components of DBMS - hardware , software, end user, data query language.
+
+Architecture of DBMS - Single tier : direct communication between client and serve.
+                     - Two tier : Intermediate application layer is between client and server. Transparency is present.
+                     - Three tier : presentation layer -> application layer -> client. Extra security with autharization 
+                       of user.
+
+RDBMS - data stored in tables, records, columns.
+
+Types of DBMS - Distributed, Centralized, Relational, Graph, NoSQL, Cloud.
+                Distributed - A table in a database used by other databases
+                Centralized - Many tables in a database used by other databases
+                Graph - Hierarchical, one to many, top down or bottom up approach
+
+
+META - It is a kind of cache data which stores information of information.
+
+Model of Data - structured : ER model through SQL (Pictorial Way)
+              - unstructured : Object based (OOPS concepts)
+              - semi-structured : No specific attributes are there.
+
+Components Of DBMS - Configuring authentication and authorisation,
+                     data backups,
+                     storage engine,
+                     query language,
+                     query processor,
+                     optimization engine,
+                     metadata catalog,
+                     log manager.
+
+RDBMS consists of rows and cols.
+rows - records
+cols - fields
+tuple - single record
+
+MySql - DDL : Data defenition language
+        DML : Data Manipulation language
+        DCL : Data Control language
+        TCL : Transaction control language
+        DQL : Data Query Language
+
+DDL - Create, Alter, Drop, Truncate.
+
+DML - insert, update, delete.
+
+DCL - Grant, Revoke
+
+TCL - commit, rollback, savepoint.
+
+DQL - select.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

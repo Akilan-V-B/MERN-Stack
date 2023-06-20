@@ -1,0 +1,26 @@
+use hello;
+CREATE TABLE customer (
+  cust_ID int PRIMARY KEY,
+  cust_name varchar(20),
+  cust_address varchar(20),
+  cust_age int
+  );
+ CREATE TABLE orders (
+  ord_ID int PRIMARY KEY,
+  cust_ID int,
+  ord_productname varchar(20),
+  ord_price int
+  );
+  insert into customer values(1,'Akil','CBE',19);
+  insert into customer values(2,'Faya','CBE',20);
+  insert into customer values(3,'Ani','CBE',19);
+  insert into customer values(4,'Jeeva','Pollachi',20);
+  insert into orders values(1,1,'aaaa',1000);
+  insert into orders values(2,1,'axxx',1052);
+  insert into orders values(3,3,'abab',500);
+  insert into orders values(4,2,'xyxy',2000);
+  select * from customer;
+  SELECT * FROM orders;
+  select * from orders inner join customer on orders.cust_ID = customer.cust_ID;
+  select customer.cust_ID,customer.cust_name,customer.cust_age,orders.ord_productname,orders.ord_price from customer left join orders on  orders.cust_ID = customer.cust_ID;
+  select * from orders right join customer on orders.cust_ID = customer.cust_ID;

@@ -1,0 +1,260 @@
+[{
+  "_id": {
+    "$oid": "649179922ede70a1430af8e2"
+  },
+  "Name": "Swift",
+  "Model": "DTS",
+  "rented_count": 5,
+  "Mileage": 18,
+  "Transmission": "Automatic",
+  "Rent": 1300,
+  "Fuel": "Petrol",
+  "Image_url": "http://adsasdasd.com"
+},
+{
+  "_id": {
+    "$oid": "64917aeb2ede70a1430af8e3"
+  },
+  "Name": "Corolla",
+  "Model": "Altis",
+  "rented_count": 3,
+  "Mileage": 20,
+  "Transmission": "Automatic",
+  "Rent": 1500,
+  "Fuel": "Petrol",
+  "Image_url": "http://example.com"
+},
+{
+  "_id": {
+    "$oid": "64917aeb2ede70a1430af8e4"
+  },
+  "Name": "Civic",
+  "Model": "EX",
+  "rented_count": 2,
+  "Mileage": 22,
+  "Transmission": "Automatic",
+  "Rent": 1400,
+  "Fuel": "Petrol",
+  "Image_url": "http://example.com"
+},
+{
+  "_id": {
+    "$oid": "64917aeb2ede70a1430af8e5"
+  },
+  "Name": "Camry",
+  "Model": "LE",
+  "rented_count": 7,
+  "Mileage": 26,
+  "Transmission": "Automatic",
+  "Rent": 1800,
+  "Fuel": "Petrol",
+  "Image_url": "http://example.com"
+},
+{
+  "_id": {
+    "$oid": "64917aeb2ede70a1430af8e6"
+  },
+  "Name": "Accord",
+  "Model": "LX",
+  "rented_count": 4,
+  "Mileage": 24,
+  "Transmission": "Automatic",
+  "Rent": 1600,
+  "Fuel": "Petrol",
+  "Image_url": "http://example.com"
+},
+{
+  "_id": {
+    "$oid": "64917aeb2ede70a1430af8e7"
+  },
+  "Name": "Fiesta",
+  "Model": "SE",
+  "rented_count": 6,
+  "Mileage": 28,
+  "Transmission": "Automatic",
+  "Rent": 1200,
+  "Fuel": "Petrol",
+  "Image_url": "http://example.com"
+},
+{
+  "_id": {
+    "$oid": "64917aeb2ede70a1430af8e8"
+  },
+  "Name": "Polo",
+  "Model": "GTI",
+  "rented_count": 2,
+  "Mileage": 22,
+  "Transmission": "Automatic",
+  "Rent": 1400,
+  "Fuel": "Petrol",
+  "Image_url": "http://example.com"
+},
+{
+  "_id": {
+    "$oid": "64917aeb2ede70a1430af8e9"
+  },
+  "Name": "i20",
+  "Model": "Sportz",
+  "rented_count": 3,
+  "Mileage": 20,
+  "Transmission": "Automatic",
+  "Rent": 1300,
+  "Fuel": "Petrol",
+  "Image_url": "http://example.com"
+},
+{
+  "_id": {
+    "$oid": "64917aeb2ede70a1430af8ea"
+  },
+  "Name": "City",
+  "Model": "VX",
+  "rented_count": 8,
+  "Mileage": 25,
+  "Transmission": "Automatic",
+  "Rent": 1700,
+  "Fuel": "Petrol",
+  "Image_url": "http://example.com"
+},
+{
+  "_id": {
+    "$oid": "64917aeb2ede70a1430af8eb"
+  },
+  "Name": "Verna",
+  "Model": "SX",
+  "rented_count": 4,
+  "Mileage": 23,
+  "Transmission": "Automatic",
+  "Rent": 1500,
+  "Fuel": "Petrol",
+  "Image_url": "http://example.com"
+},
+{
+  "_id": {
+    "$oid": "64917b632ede70a1430af8ec"
+  },
+  "Name": "i10",
+  "Model": "Magnaa",
+  "rented_count": 2,
+  "Mileage": 21,
+  "Transmission": "Automatic",
+  "Rent": 1200,
+  "Fuel": "Petrol",
+  "Image_url": "http://example.com"
+},
+{
+  "_id": {
+    "$oid": "64917b632ede70a1430af8ed"
+  },
+  "Name": "EcoSport",
+  "Model": "Titanium",
+  "rented_count": 5,
+  "Mileage": 17,
+  "Transmission": "Automatic",
+  "Rent": 1400,
+  "Fuel": "Petrol",
+  "Image_url": "http://example.com"
+},
+{
+  "_id": {
+    "$oid": "64917b632ede70a1430af8ee"
+  },
+  "Name": "Tucson",
+  "Model": "GLS",
+  "rented_count": 3,
+  "Mileage": 19,
+  "Transmission": "Automatic",
+  "Rent": 1600,
+  "Fuel": "Petrol",
+  "Image_url": "http://example.com"
+},
+{
+  "_id": {
+    "$oid": "64917b632ede70a1430af8ef"
+  },
+  "Name": "Qashqai",
+  "Model": "Visia",
+  "rented_count": 4,
+  "Mileage": 23,
+  "Transmission": "Automatic",
+  "Rent": 1800,
+  "Fuel": "Petrol",
+  "Image_url": "http://example.com"
+},
+{
+  "_id": {
+    "$oid": "64917b632ede70a1430af8f0"
+  },
+  "Name": "A3",
+  "Model": "Sedan",
+  "rented_count": 2,
+  "Mileage": 25,
+  "Transmission": "Automatic",
+  "Rent": 2000,
+  "Fuel": "Petrol",
+  "Image_url": "http://example.com"
+},
+{
+  "_id": {
+    "$oid": "64917b632ede70a1430af8f1"
+  },
+  "Name": "X5",
+  "Model": "M50i",
+  "rented_count": 3,
+  "Mileage": 15,
+  "Transmission": "Automatic",
+  "Rent": 3500,
+  "Fuel": "Petrol",
+  "Image_url": "http://example.com"
+},
+{
+  "_id": {
+    "$oid": "64917b632ede70a1430af8f2"
+  },
+  "Name": "C-Class",
+  "Model": "AMG C63",
+  "rented_count": 6,
+  "Mileage": 14,
+  "Transmission": "Automatic",
+  "Rent": 4000,
+  "Fuel": "Petrol",
+  "Image_url": "http://example.com"
+},
+{
+  "_id": {
+    "$oid": "64917b632ede70a1430af8f3"
+  },
+  "Name": "Mustang",
+  "Model": "GT",
+  "rented_count": 4,
+  "Mileage": 18,
+  "Transmission": "Automatic",
+  "Rent": 3000,
+  "Fuel": "Petrol",
+  "Image_url": "http://example.com"
+},
+{
+  "_id": {
+    "$oid": "64917b632ede70a1430af8f4"
+  },
+  "Name": "XC90",
+  "Model": "Momentum",
+  "rented_count": 7,
+  "Mileage": 21,
+  "Transmission": "Automatic",
+  "Rent": 2800,
+  "Fuel": "Petrol",
+  "Image_url": "http://example.com"
+},
+{
+  "_id": {
+    "$oid": "64917b632ede70a1430af8f5"
+  },
+  "Name": "Sorento",
+  "Model": "LX",
+  "rented_count": 3,
+  "Mileage": 20,
+  "Transmission": "Automatic",
+  "Rent": 2200,
+  "Fuel": "Petrol",
+  "Image_url": "http://example.com"
+}]

@@ -1,0 +1,94 @@
+Java Script
+
+let,const are ES6 features which bought after 2016.
+
+var can be redeclared and assigned but let cannot be redeclared.
+var has no block scope but let has block scope.
+
+Hosting in javascript:
+   When var keyword is used to initialize variables, these var variables are moved to top and declared but not initialized
+so when we try to print var variables before declaration undefined will be the output but this does not occur in let variables it gives error.
+
+Eg of hosting :
+console.log(y);
+var y=10;
+console.log(x);
+let x=10;
+O/P : undefined
+      error
+
+Eg: var a =10;
+    var a=20; gives no error.
+    let a=10;
+    let a=20; gives error.
+
+Eg: let s = 1/0;
+    console.log(s);
+    o/p : infinity.
+
+let s  = "12"*12   in arithmetic operation js will try to convert string into number in this case "12" can be converted into 12 so arithmetic operation is done
+console.log(s);
+
+ but in this case
+let b = "12a"*12  here "12a" is not possible to converted into number so NaN is returned
+console.log(b);
+
+addition of string and number results always in string type
+
+let a = 52n
+here , n specifies 52 as bigint.
+
+let a = 'Akil'
+let b = "Akil"
+let c = 'A'
+let d = "A"
+the above variables a,b,c,d are strings in javascript.
+
+let x;
+console.log(x);
+O/P : undefined.
+
+Mutation:
+   when one object is assigned directly to another variable the memory address is assigned to new variable hence change in any of the variable cause changes in both variable. To avoid this we can assign copy of object to another object by using spread operator.
+ 
+Data Type : 1.)Number (float, int, double, long, infinity, -infinity, NAN(Not a number) 
+               are called as number in javascript)
+	    2.)Bigint
+            3.)String
+            4.)null(empty)
+            5.)Boolean
+            6.)Undefined(uninitialized variables)
+            7.)Object
+            8.)symbol
+
+Functions : Normal Function
+            Arrow Function
+            Imediate Invoking Function
+            Higher Order Function : it has to return a function or gets function as argument. 
+	    Call Back Function : this function is passed as parameter of the another function.
+
+String & Array Methods :
+
+Destructive: push()
+             pop()
+             shift()
+             unshift()
+             splice()
+
+Non-destructive: trim()
+                 replace()
+                 replaceAll()
+	         slice()
+ 	         split()
+
+
+                  
+	    
+
+
+            
+
+
+	    
+            
+

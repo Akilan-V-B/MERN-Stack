@@ -1,0 +1,10 @@
+Loops:
+for in gives indexes,keys only.
+for of directly gives the values.
+
+for in loop for arrays gives only index.
+for of loop is used for arrays.
+
+foreach() method requires an callback method as argument it fetches every element from the array and sends that element to the callback function.
+
+

@@ -1,0 +1,22 @@
+{
+    "name":"Akilan V B",
+    "Age":19,
+    "Department":"CSE",
+    "College_Name":"SECE",
+    "DOB":"21/01/2004",
+    "Address":{
+        "Door_No":43,
+        "Street" : {
+           "s1": "MK street",
+           "s2":"MK nagar"
+        },
+        "Town" : "VP",
+        "City" : "CBE",
+        "State" : "TN"
+    },
+    "Parents_Info" : {
+        "Father_Name" : "Balasubramani N",
+        "Monthe_Name" : "Geetha",
+        "Siblings" : ["Brinda"]
+    }
+}

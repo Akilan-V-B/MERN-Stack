@@ -1,0 +1,74 @@
+.fletter {
+    font-size: 200%;
+    color: brown;
+}
+
+.container {
+    display: flex;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.4);
+    background-color: #917FB3;
+    border-radius: 10px;
+}
+
+.item {
+    flex: 1;
+    padding: 10px;
+    margin: 20px;
+    background-color:#FF9B9B;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.4);
+}
+.link {
+    margin-top: 30px;
+    margin-left: 480px;
+    margin-right: 480px;
+    padding: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    background-color: #E8D5C4;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.4);
+}
+a {
+    text-decoration: none;
+}
+.box{
+    background-color: #E7E9EB;
+    margin: 10px;
+    border-radius: 5px;
+    padding-bottom: 20px;
+}
+.inbox{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    
+}
+.inbox1{
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.inbox2{
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-left: 4px solid #4CAF50;
+
+}
+.inbox3{
+    background-color: #04AF50;
+    margin-left: 20px; 
+    margin-right: 1140px; 
+    padding: 16px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
